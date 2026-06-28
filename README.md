@@ -13,16 +13,9 @@
 **Nakshatra** is a beautiful, single-file Vedic astrology web app powered by Claude Sonnet AI.  
 Enter your birth details and receive a deep, personalized cosmic reading — instantly.
 
-🌐 **[Live Demo →](https://yourusername.github.io/nakshatra)**
+🌐 **[Live Demo →](https://shlokkatu.github.io/nakshatra)**
 
 </div>
-
----
-
-## 🎬 Demo
-
-<!-- Replace the link below with your actual screen recording link from GitHub Issues -->
-> 📹 *Screen recording coming soon — upload your video via GitHub Issues and paste the link here*
 
 ---
 
@@ -46,7 +39,7 @@ Enter your birth details and receive a deep, personalized cosmic reading — ins
 ## 🚀 How to Use
 
 ### Option 1 — Use the Live Website
-1. Open the **[Live Demo](https://yourusername.github.io/nakshatra)**
+1. Open the **[Live Demo](https://shlokkatu.github.io/nakshatra)**
 2. Get your free API key from **[console.anthropic.com](https://console.anthropic.com/settings/keys)**
 3. Paste your `sk-ant-...` key in the API Key field
 4. Enter your **Full Name**, **Date of Birth**, **Time of Birth**, **Place of Birth**
@@ -56,7 +49,7 @@ Enter your birth details and receive a deep, personalized cosmic reading — ins
 ### Option 2 — Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/nakshatra.git
+git clone https://github.com/shlokkatu/nakshatra.git
 
 # Just open the file in your browser — no server needed!
 open nakshatra/index.html
@@ -110,9 +103,8 @@ nakshatra/
 
 | Form | Reading |
 |------|---------|
-| ![Form Screen](https://placehold.co/400x250/1a1025/c8953a?text=Birth+Details+Form) | ![Reading Screen](https://placehold.co/400x250/1a1025/c8953a?text=Cosmic+Reading) |
+| ![Form Screen](https://github.com/shlokkatu/Nakshatra/blob/6629dad71f11d536e56b6b121235f52af8ef7987/birth%20details%20form.png) | ![Reading Screen](https://github.com/shlokkatu/Nakshatra/blob/6629dad71f11d536e56b6b121235f52af8ef7987/cosmatik.png) |
 
-> 📸 *Replace the placeholders above with real screenshots of your app*
 
 ---
 
@@ -123,7 +115,7 @@ nakshatra/
 2. Go to **Settings → Pages**
 3. Set Source to **main branch → / (root)**
 4. Rename `nakshatra.html` to `index.html`
-5. Your site is live at `https://yourusername.github.io/nakshatra` 🎉
+5. Your site is live at `https://shlokkatu.github.io/nakshatra` 🎉
 
 ---
 
